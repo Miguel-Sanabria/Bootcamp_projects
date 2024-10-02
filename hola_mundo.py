@@ -1,5 +1,5 @@
 # 1. Imprime "Hola, mundo"
-print("Hola, Mundo")
+print("Hola, Mundo...")
 
 # 2. Imprime "Hola, Valeria" con el nombre en una variable
 nombre = "Valeria"
